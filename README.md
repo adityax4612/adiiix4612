@@ -83,14 +83,6 @@ Mission:
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adiiix4612&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
 
 # 🌐 Connect With Me
 
